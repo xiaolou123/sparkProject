@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customVMPath" />
+    <option name="vmParameters" value="-Xms512M -Xmx1024M -Xss1M -XX:+CMSClassUnloadingEnabled -Dsbt.log.format=true -Dsbt.boot.directory=D:/BigData/sbt-1.1.2/sbt/.sbt/boot -Dsbt.ivy.home=D:/BigData/sbt-1.1.2/sbt/.ivy2 -Dsbt.global.base=D:/BigData/sbt-1.1.2/sbt/.sbt -Dsbt.repository.config=D:/BigData/sbt-1.1.2/sbt/conf/repository.properties" />
+  </component>
+</project>
